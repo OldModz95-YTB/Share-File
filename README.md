@@ -45,11 +45,11 @@ change https://protondev.eu by/par link your site web/lien de votre site interne
 <br>
 
 # Insert IMG
-<img src="https://i.imgur.com/gktdfvK.png">
+<img src="https://i.imgur.com/pyNlsRK.png">
 <br>
 
 # Image Upload
-<img src="https://i.imgur.com/MlwUNaA.png">
+<img src="https://i.imgur.com/Vqsk5yy.png">
 <br>
 
 # Erreur/Error
